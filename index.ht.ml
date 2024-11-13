@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html>
+<header>ALURAFLIX</header>
 
-<head>
-    <title>Alura Plus</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="styles.css">
-</head>
-
-<body>
-</body>
-
-</html>
+<h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
+<p>#homem-aranha</p>
